@@ -1,2 +1,2 @@
 # Hello World
-Using git the first time :)
+Using git and Github the first time :)
